@@ -1,9 +1,8 @@
 @charset "UTF-8";
 
 /*!
- * Litho - v2.0
- * https://www.themezaa.com/
- * Copyright (c) 2021 themezaa.com
+DISHD
+ * Copyright (c) 2021 
  */
 
 @media (min-width: 1901px) {
@@ -2988,7 +2987,7 @@
     .navbar-dark.bg-transparent .push-button > span, .sticky .navbar-dark.bg-transparent .push-button > span { background: #232323; }
 
     /* header transparent */
-    .navbar.bg-transparent { background-color: #fff!important; }
+    .navbar.bg-transparent { background-color: #232323 !important; }
     .navbar.navbar-dark .header-social-icon, .sticky .navbar.header-dark .header-social-icon { border-color: rgba(0,0,0,.45); }
     .navbar.navbar-dark.bg-transparent .navbar-nav .nav-link, .navbar.navbar-dark.bg-transparent .header-search-icon > a, .navbar.navbar-dark.bg-transparent .header-social-icon > a, .navbar.navbar-dark.bg-transparent .header-cart-icon > a, .navbar.navbar-dark.bg-transparent .header-language > a, .navbar.navbar-dark .nav-bar-contact { color: #232323 !important;}
     header.sticky .navbar.navbar-dark.bg-transparent.header-dark .header-social-icon > a { color: #fff !important;}
