@@ -2826,7 +2826,7 @@ DISHD
 
 
     /* scroll to top */
-    .scroll-top-arrow { display: none !important}
+    .scroll-top-arrow { display: inline !important}
 
     /*footer sticky*/
     .footer-sticky { position: relative !important; z-index: 0 !important; }
